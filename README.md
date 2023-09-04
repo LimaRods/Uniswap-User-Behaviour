@@ -2,7 +2,7 @@
  
 ## 1.2 Objective 🎯
 
-As a data consultant for **Uniswap**, I aim to deliver a comprehensive business growth report. This report will offer insights into Uniswap v3's customer and user demographics, focusing on enhancing profitability, revenue, retention, and usage metrics. The project will involve:
+As a data consultant for **Uniswap**, I aim to deliver a comprehensive business growth report. This report will offer insights into Uniswap v3's customers, focusing on enhancing profitability, revenue, retention, and usage metrics. The project will involve:
 
 1. Crafting a dataset for analytical purposes.
 2. Detailing the dataset creation methodology.
