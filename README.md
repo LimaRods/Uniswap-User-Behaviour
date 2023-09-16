@@ -9,5 +9,5 @@ As a data consultant for **Uniswap**, I aim to deliver a comprehensive business 
 3. Examining pivotal customer metrics across various cohorts over time.
 4. Proposing actionable strategies to augment key business performance indicators.
 
-- Document Project: https://rodolfo-projects.notion.site/Uniswap-V3-Traders-Behaviour-65072d8694ba4390bb7df72671f67618
+- Project Document: https://rodolfo-projects.notion.site/Uniswap-V3-Traders-Behaviour-65072d8694ba4390bb7df72671f67618
 - Dashboard: https://public.tableau.com/app/profile/rodolfo/viz/Uniswapv3TraderBehavious/Dashboard?publish=yes
